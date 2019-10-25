@@ -3,7 +3,7 @@ This is my public repository for the Telling Stories with Data course at CMU!
 
 # About Me
 Hello everyone! 
-I'm Jiadi Li, a Master of Information Systems Management student.
+I'm Jiadi Li, a Master of Information Systems Management student. <br/>
 After graduating this December, I'll start working as an associate data product manager. I believe the knowledege and skills I learned in this course and the past one and a half year at CMU will be extremely helpful.
 
 # What I hope to learn
