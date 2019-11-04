@@ -22,7 +22,7 @@ For this dataset, scatter plot is used to compare the trends of government debts
 
 The graph below indicates that in 1995, both USA and JPN have a government debt of around 95% of their GDP. From then on, while the difference became greater over time, both data follow a similar trend which is an informative reflection of the global economic situation.<br/>
 
-<p align="center"> Historical Trends of Government Debt over GDP Ratio: JPN vs. USA </p>
+<p align="center"> <b> Historical Trends of Government Debt over GDP Ratio: JPN vs. USA </b> </p>
 Japan's fiscal situation is one of the worst in the world; <br/>
 Japan's government debt evolved with a trend similar to that of the United States.
 
