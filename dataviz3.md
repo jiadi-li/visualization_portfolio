@@ -6,7 +6,7 @@
 
 Source: "Investment Company Institute Annual Mutual Fund Tracking Survey" (P.22 on Coursera FinTech: Foundations, Payments, and Regulations Course by University of Pennsylvania, Module 2 PowerPoint Presentation) https://d18ky98rnyall9.cloudfront.net/glvf0Xi6Eemp7w5DYr3HzA_27105905a6414d5f930e5ca8c86ea555_Module-2-Lecture-Slides.pdf?Expires=1573516800&Signature=YfodlGyi~WbFRRa4Ok5BT2Nf3Mdf2CCEn3YVw764ULDTQRH7156yFIzy8CGedKs1RZbGr571RP~RB7W9j4NLpIIJt-X3As~xtfahOpzXEoC5MgYYnL-~Qxuy18BbXJ4~6NiXh9TgIblHHuv5ACUjheHZHfPgFO8R1FFkivrhd70_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A
 
-![Original Data Visualization](../dataviz3original.JPG)
+![Original Data Visualization](./dataviz3original.JPG)
 
 ##### why this visualization
 This data visualization is from a course I took earlier about fintech industry. The data visualization is intended to inform readers about the risk tolerance situation for the past decades. While it has several advantages which makes it a decent product, it also has some crucial disadvantages. These characteristics makes the visualization interested to be discussed and redesigned. 
