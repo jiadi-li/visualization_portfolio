@@ -39,6 +39,8 @@ For my redesign, I will based on the conlcusion in the original data visualizati
 
 #### Step 4: Test the solution
 
+<iframe title="Willingness of all US Households to Take Investment Risks" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/JK2yE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="500"></iframe>
+
 ##### insights from user feedback 
 
 Based on the user feedbacks, I found out that my audience is not able to capture the information quite well. For example, the grey highlight I put in the middle of the plot is to indicate the time of financial crisis. Without a clearer sign, the audience wouldn't figure out the idea even with the comment above the plot. Moreover, according to the users, the contrast between the groups is not clearly shown using the current color scheme. One of the user feedback is recorded below:
@@ -69,6 +71,6 @@ Given the feedback, the two major changes I will make are:
 
 #### Step 5: Build your solution
 
-<iframe title="Willingness of all US Households to Take Investment Risks" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/JK2yE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="500"></iframe>
+
 
 #### [Return to Main Page](/README.md)
