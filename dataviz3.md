@@ -43,7 +43,7 @@ For my redesign, I will based on the conlcusion in the original data visualizati
 
 ##### insights from user feedback 
 
-Based on the user feedbacks, I found out that my audience is not able to capture the information quite well. For example, the grey highlight I put in the middle of the plot is to indicate the time of financial crisis. Without a clearer sign, the audience wouldn't figure out the idea even with the comment above the plot. Moreover, according to the users, the contrast between the groups is not clearly shown using the current color scheme. One of the user feedback is recorded below:
+Based on the user feedbacks, I found out that my audience is not able to capture the information quite well. For example, the grey highlight I put in the middle of the plot is to indicate the time of financial crisis. Without a clearer sign, the audience wouldn't figure out the idea even with the comment above the plot. Moreover, according to the users, the contrast between the groups is not clearly shown using the current color scheme. Users also get confused on the placement of the "All owners" line. One of the user feedback is recorded below:
 
 1. Can you tell me what you think this is?
 - I think it's a graph indicating the trend with time showing  willingness of US households of different ages to take investment risks.
@@ -56,6 +56,7 @@ Based on the user feedbacks, I found out that my audience is not able to capture
 
 3. Is there anything you find surprising or confusing?
 - I don't really understand what the column is telling.
+- Why does the "All owners" line lower than the other two lines?
 
 4. Who do you think is the intended audience for this?
 - Audience younger than 35.
@@ -66,11 +67,12 @@ Based on the user feedbacks, I found out that my audience is not able to capture
 ##### what's different in the redesign
 
 Given the feedback, the two major changes I will make are:
-1. explicitly label the grey hightlight area;
-2. change the color scheme.
+1. explicitly label the hightlight area;
+2. change the color scheme;
+3. label the y-axis using the correct format (0[.00]% instead of 1000[.00])
 
 #### Step 5: Build your solution
 
-
+<iframe title="Willingness of all US Households to Take Investment Risks" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/JK2yE/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="500"></iframe>
 
 #### [Return to Main Page](/README.md)
