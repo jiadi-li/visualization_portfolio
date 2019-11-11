@@ -39,7 +39,7 @@ For my redesign, I will based on the conlcusion in the original data visualizati
 
 #### Step 4: Test the solution
 
-<iframe title="Willingness of all US Households to Take Investment Risks" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/JK2yE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="500"></iframe>
+![redesign visualization: version 1.0](./dataviz3_v1.png)
 
 ##### insights from user feedback 
 
