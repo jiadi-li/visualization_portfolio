@@ -12,7 +12,7 @@
   As a call for action, it's suggested that people who are interested developing a career in product management should think rationally and choose wisely.<br/>
 
 - Project Structure
-![The Story Arc|20%](./Emotion.JPG)
+<img src="./Emotion.JPG" width="100" height="100">
 
   The narrative will be divided into three parts - 
   1. Attractiveness: by illustrating the trends, demands, requirements and job descriptions of product management roles in the past few years, show the upside of the topic.
