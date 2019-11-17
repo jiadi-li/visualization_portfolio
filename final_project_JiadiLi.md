@@ -43,9 +43,21 @@ While not all sketches are created, they are mostly scatter plot and/or bar char
 <img src="./percentage.JPG" width="400">
 </p>
 
+For this part, some statements that reflecting the actual status of working professional and/or job seekers will be listed visually.<br/>
+The purpose is to show that even though becoming a product manager seems to have a broad development, there might be some risks and threats.<br/>
+
 <p align="center">
 <img src="./ratio.JPG" width="400">
 </p>
+
+For example, the ratio between product manager and software developers/engineers are 1:14, which could imply that the need for product managers are increasing, but with a foreseeable ceiling. The supply will soon exceed demand and competition might be cruel. Moreover, this ratio also imply the workload of product managers. <br/>
+
+Other difficulties will be extracted from further exploration of the data. <br/>
+
+Another issue of this part is the difficulty in finding a uniform set of skill requirements. Each resource has similar but subjective opinion on the skill required.<br/>
+
+This also implies that the product management roles haven't developed mature enough to generate a uniform standard like other roles. This could be an oppotunity for job seekers with insufficient qualification, but is also a threat for all stackholders.<br/><br/>
+
 - Actions
   
 ### Data
