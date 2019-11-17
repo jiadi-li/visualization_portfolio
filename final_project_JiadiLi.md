@@ -59,6 +59,8 @@ Another issue of this part is the difficulty in finding a uniform set of skill r
 This also implies that the product management roles haven't developed mature enough to generate a uniform standard like other roles. This could be an oppotunity for job seekers with insufficient qualification, but is also a threat for all stackholders.<br/><br/>
 
 - Actions
+
+Finally, in the last portion of the project, information from both sections above will be discussed together so that job seekers and professionals will have a better understanding of what they are facing and make wise career decisions.<br/>
   
 ### Data
 
