@@ -12,27 +12,33 @@
   As a call for action, it's suggested that people who are interested developing a career in product management should think rationally and choose wisely.<br/>
 
 - Project Structure
+![The Story Arc](./Emotion.JPG)
 
-
-  
+  The narrative will be divided into three parts - 
+  1. Attractiveness: by illustrating the trends, demands, requirements and job descriptions of product management roles in the past few years, show the upside of the topic.
+  2. Difficulties: by looking deeper into the data, explain how these trends can be a disadvantage to job seekers.
+  3. Actions: by comparing both sides of the product management roles, suggesting people to make wise decision and reasonable goal when seeking for employment in the field.
 
 ### Initial Sketches
 
-- Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  
-  Build in elements of your anticipated story structure for your project.
+- Attractiveness
+- Difficulties
+- Actions
   
 ### Data
 
-- A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-- A link to the publicly-accessible datasets you plan on using, 
-  or a link to a copy of the data you've uploaded to your Github repository, 
-  Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  
-  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+- structured data
+
+  - 
+
+- Data manipulated/summarized in other articles
   
 ### Method & Medium
 
-- In a few paragraphs, you should document how you plan on completing your final project.  
-  One option we've already discussed is building a story using your data using Shorthand 
-  - but this is my no means your only option.  
+- Shorthand <br/>
+
+
+
+
 
 #### [Return to Main Page](/README.md)
