@@ -74,8 +74,9 @@ Finally, in the last portion of the project, information from both sections abov
   </p>
   
   <p align="center">
-  <img src="./data1.JPG" width="400">
+  <img src="./data3.JPG" width="400">
   </p>
+  
   - The World Bank Datalog: https://datacatalog.worldbank.org/search/type/dataset
     - One of the useful dataset from this source is the one used earlier in class about industry skills needed. However, since it's not specific enough to product management, additional resources are applied below.
 
