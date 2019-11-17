@@ -33,10 +33,10 @@
 This part of the visualization will mainly show how promising the position is. <br/>
 <br/>
 Data will include: <br/>
-  - statistics in internet industry and digital transformation of traditional industries; <br/>
-  - number of job opening; <br/>
-  - amount of salary <br/>
-While not all data are sketched, they are mostly scatter plot and/or bar charts using data from job boards like Linkedin and Glassdoor. <br/><br/><br/>
+    - statistics in internet industry and digital transformation of traditional industries; <br/>
+    - number of job opening; <br/>
+    - amount of salary <br/>
+While not all data are sketched, they are mostly scatter plot and/or bar charts using data from job boards like Linkedin and Glassdoor. <br/><br/>
 
 - Difficulties
 <p align="center">
