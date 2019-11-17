@@ -17,9 +17,12 @@
 </p>
 
   The narrative will be divided into three parts - 
-  1. Attractiveness: by illustrating the trends, demands, requirements and job descriptions of product management roles in the past few years, show the upside of the topic.
-  2. Difficulties: by looking deeper into the data, explain how these trends can be a disadvantage to job seekers.
-  3. Actions: by comparing both sides of the product management roles, suggesting people to make wise decision and reasonable goal when seeking for employment in the field.
+  1. Attractiveness: 
+    by illustrating the trends, demands, requirements and job descriptions of product management roles in the past few years, show the upside of the topic.
+  2. Difficulties: 
+    by looking deeper into the data, explain how these trends can be a disadvantage to job seekers.
+  3. Actions: 
+    by comparing both sides of the product management roles, suggesting people to make wise decision and reasonable goal when seeking for employment in the field.
 
 ### Initial Sketches
 
