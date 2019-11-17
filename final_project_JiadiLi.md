@@ -27,3 +27,5 @@
 - In a few paragraphs, you should document how you plan on completing your final project.  
   One option we've already discussed is building a story using your data using Shorthand 
   - but this is my no means your only option.  
+
+#### [Return to Main Page](/README.md)
