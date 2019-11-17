@@ -95,6 +95,7 @@ Finally, in the last portion of the project, information from both sections abov
   Shorthand is a platform in use by various journalists and others to tell compelling stories.<br/>
   First of all, the Shorthand commissioning and planning forms is filled for project development.<br/>
   After the project proposal is approved, sketches and first drafts of visualizations will be created locally using various tools such as DataWrapper, RawGraph and Tableau. By generating acceptable independent visualizations, a story will be created on shorthand.<br/>
+  Then the project will go through testing phrase and final solution building phrase.
   Information will be finalized as the project proceeds.
 
 #### [Return to Main Page](/README.md)
