@@ -30,9 +30,19 @@
 <p align="center">
 <img src="./increasing.JPG" width="400">
 </p>
+This part of the visualization will mainly show how promising the position is. <br>
+Data will include: 
+  - statistics in internet industry and digital transformation of traditional industries
+  - number of job opening 
+  - amount of salary
+While not all data are sketched, they are mostly scatter plot and/or bar charts using data from job boards like Linkedin and Glassdoor.
+
 - Difficulties
 <p align="center">
 <img src="./percentage.JPG" width="400">
+</p>
+
+<p align="center">
 <img src="./ratio.JPG" width="400">
 </p>
 - Actions
