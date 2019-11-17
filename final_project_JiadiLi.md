@@ -27,7 +27,14 @@
 ### Initial Sketches
 
 - Attractiveness
+<p align="center">
+<img src="./increasing.JPG" width="400">
+</p>
 - Difficulties
+<p align="center">
+<img src="./percentage.JPG" width="400">
+<img src="./ratio.JPG" width="400">
+</p>
 - Actions
   
 ### Data
