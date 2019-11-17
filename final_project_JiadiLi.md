@@ -36,7 +36,7 @@ Data will include: <br/>
     - statistics in internet industry and digital transformation of traditional industries; <br/>
     - number of job opening; <br/>
     - amount of salary <br/><br/>
-While not all sketches are created, they are mostly scatter plot and/or bar charts using data from job boards like Linkedin and Glassdoor. <br/><br/>
+While not all sketches are created, they are mostly scatter plot and/or bar charts using data from job boards like Linkedin and Glassdoor. <br/><br/><br/>
 
 - Difficulties
 <p align="center">
@@ -60,15 +60,33 @@ This also implies that the product management roles haven't developed mature eno
 
 - Actions
 
-Finally, in the last portion of the project, information from both sections above will be discussed together so that job seekers and professionals will have a better understanding of what they are facing and make wise career decisions.<br/>
+Finally, in the last portion of the project, information from both sections above will be discussed together so that job seekers and professionals will have a better understanding of what they are facing and make wise career decisions.<br/><br/>
   
 ### Data
 
 - structured data
 
-  - 
+  - Glassdoor Research Dataset: https://www.glassdoor.com/research/data-sets/
+    - The job market report: historical data includes monthly data from many aspects. It will be useful to generate statistics in terms of industry, specific roles, etc. to demonstrate the attractiveness and growth of the market. 
+  <p align="center">
+  <img src="./data1.JPG" width="200">
+  <img src="./data2.JPG" width="400">
+  </p>
+  
+  <p align="center">
+  <img src="./data1.JPG" width="400">
+  </p>
+  - The World Bank Datalog: https://datacatalog.worldbank.org/search/type/dataset
+    - One of the useful dataset from this source is the one used earlier in class about industry skills needed. However, since it's not specific enough to product management, additional resources are applied below.
 
 - Data manipulated/summarized in other articles
+  - Indeed Hiring Lab Chartbook：http://www.hiringlab.org/wp-content/uploads/2018/02/Hiring-Lab-Chartbook-2017_ebook-2-1-1.pdf
+  - Hired - 2017 STATE OF GLOBAL TECH SALARIES：https://hired.com/state-of-salaries-2017
+  - 9 Surprising Stats About Product Management (And What They Actually Mean For You)：https://airfocus.io/blog/surprising-product-management-stats/
+  - Product Management Trends & Benchmarks Report 2019：https://cdn2.hubspot.net/hubfs/452665/PMF_Trends&Benchmarks_2019.pdf
+  - Product Management Trends 2019 Review and Prediction: https://hygger.io/blog/product-management-trends-2019-review-and-predictions/
+  
+  These data sources are more product management specific to demonstrate the status of the roles. Even though they are somewhat second-handed, they still provide space to analyze and consolidate. <br/><br/>
   
 ### Method & Medium
 
