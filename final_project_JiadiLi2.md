@@ -17,9 +17,16 @@ For each evidence/visualization/graph discussed by the young man, Ms. Optimism a
 
 #### Visualizations
 
-The young man narrative: "Hello everyone! I'm a college student who is very interested in product management. However, as I look through some market trends, job openings and requirements, I'm a little confused. Can anyone give me some advice on **WHAT SHOULD I DO TO GET A JOB IN PRODUCT MANAGEMENT?**" (highlighted part will have much bigger font in the final product)
+The young man narrative: "Hello everyone! I'm a college student who is very interested in product management. However, as I look through some market trends, job openings and requirements, I'm a little confused. Can anyone give me some advice on **WHAT SHOULD I DO TO GET A JOB IN PRODUCT MANAGEMENT?**" (highlighted part will have much bigger font in the final product) <br/>
+
+"First, let's take a look at the median salary trends of Product Managers since 2017." <br/>
 
 1. 
+
+(This Data is collected from [Glassdoor](https://www.glassdoor.com/research/data-sets/) by downloading all the data and manipulate them to the form shown below.)
+<p align="center">
+<img src="./SalaryData.JPG" width="500">
+</p>
 
 ### Creation of a user research protocol and completion of at least three interviews
 
