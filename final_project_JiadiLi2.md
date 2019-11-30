@@ -21,6 +21,33 @@ For each evidence/visualization/graph discussed by the young man, Ms. Optimism a
 
 ### Creation of a user research protocol and completion of at least three interviews
 
+User research protocol: 
+a. the target audience to reach with your story: <br/>
+  college students who are interested in pursuing a career in product management; 
+  
+b. approach to identifying representative individuals to interview: <br/>
+  Based on the target audience definition, the ideal interviewees are undergraduate students, graduate students and professionals/other individuals who are interested in the subject. In this case, representative individuals to interview are mostly from these crowd.
+  
+c. interview script: <br/>
+- General questions:
+1. Can you tell me what you think this is?
+2. Can you describe to me what this is telling you?
+3. Is there anything you find surprising or confusing?
+4. Who do you think is the intended audience for this?
+5. Is there anything you would change or do differently?
+6. Did you get any new idea or understanding of the topic from this?
+7. Do you have any other related information that you expected to see from this?
+8. Do you have any other recommendations?
+
+d. the findings from the interviews:
+  1. 
+  2. 
+  3. 
+  4. 
+  5. 
+  
+e. changes the implemented to the sketches, storyboards and wireframes to address the issues identified: please see below.
+
 ### Revised wireframes / visualizations / storyboards based on what you heard
 
 #### [Return to Main Page](/README.md)
