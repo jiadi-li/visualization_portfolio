@@ -17,6 +17,8 @@ For each evidence/visualization/graph discussed by the young man, Ms. Optimism a
 
 #### Visualizations
 
+The young man narrative: "Hello everyone! I'm a college student who is very interested in product management. However, as I look through some market trends, job openings and requirements, I'm a little confused. Can anyone give me some advice on **WHAT SHOULD I DO TO GET A JOB IN PRODUCT MANAGEMENT?**" (highlighted part will have much bigger font in the final product)
+
 1. 
 
 ### Creation of a user research protocol and completion of at least three interviews
