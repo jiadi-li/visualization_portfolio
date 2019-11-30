@@ -21,7 +21,10 @@ The young man narrative: "Hello everyone! I'm a college student who is very inte
 
 "First, let's take a look at the median salary trends of Product Managers since 2017." <br/>
 
-1. 
+1. Overall Median Salary vs. Product Manager Median Salary, 2017-06 ~ 2019/10
+<p align="center">
+<img src="./Viz1-v1.JPG" width="500">
+</p>
 
 (This Data is collected from [Glassdoor](https://www.glassdoor.com/research/data-sets/) by downloading all the data and manipulate them to the form shown below.)
 <p align="center">
@@ -49,8 +52,8 @@ c. interview script: <br/>
 8. Do you have any other recommendations?
 
 d. the findings from the interviews:
-  1. 
-  2. 
+  1. Don't use abbreviations, spell out the whole word (like Product Manager instead of "PMs")
+  2. In all the visualizations, make sure to include dollar sign or other symbols when necessary
   3. 
   4. 
   5. 
