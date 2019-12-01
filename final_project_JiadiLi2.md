@@ -71,6 +71,6 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 1. <iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
 2. 
-<iframe src="https://public.tableau.com/shared/TW8MTZ6Y9?:display_count=y&:origin=viz_share_link" width="800" height="600"></iframe>
+<iframe src="https://public.tableau.com/shared/TW8MTZ6Y9?:display_count=y&:showVizHome=no&:origin=viz_share_link" width="800" height="600"></iframe>
 
 #### [Return to Main Page](/README.md)
