@@ -29,12 +29,12 @@ The young man narrative: "Hello everyone! I'm a college student who is very inte
 (This Data is collected from [Glassdoor](https://www.glassdoor.com/research/data-sets/) by downloading all the data and manipulate them to the form shown below.)
 <p align="center">
 <img src="./SalaryData.JPG" width="450">
-<img src="./SalaryUS.JPG" width="500">
+<img src="./SalaryUS.JPG" width="300">
 </p>
 
 2. U.S. House Pricing Index vs. Product Manager Median Base Pay, October 2019 <br/>
 <p align="center">
-<img src="./Viz2-v1.JPG" width="500">
+<img src="./Viz2-v1.JPG" width="600">
 </p>
 (This Data is collected from [Glassdoor](https://www.glassdoor.com/research/data-sets/) by downloading all the data and manipulate them to the form shown above.)
 
