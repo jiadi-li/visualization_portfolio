@@ -45,6 +45,6 @@ Make sure to add / update any citations and / or other content that you used to 
 References should also be clearly identified on your final data story itself.  (Part III)
 Include any other information that helps round out your data story. (Part III)
 
-#### [Part I: Project Proposal](/final_project_JiadiLi.md))
+#### [Part I: Project Proposal](/final_project_JiadiLi.md)
 #### [Part II: Wireframes / Storyboards and User Research](/final_project_JiadiLi2.md)
 #### [Return to Main Page](/README.md)
