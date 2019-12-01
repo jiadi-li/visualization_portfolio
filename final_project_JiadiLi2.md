@@ -19,7 +19,20 @@ For each evidence/visualization/graph discussed by the young man, Ms. Optimism a
 
 The young man narrative: "Hello everyone! I'm a college student who is very interested in product management. However, as I look through some market trends, job openings and requirements, I'm a little confused. Can anyone give me some advice on **WHAT SHOULD I DO TO GET A JOB IN PRODUCT MANAGEMENT?**" (highlighted part will have much bigger font in the final product) <br/>
 
-"First, let's take a look at the median salary trends of Product Managers since 2017." <br/>
+Ms. Optimism: "Let's see what I can do to help! First thing first, **WHAT IS PRODUCT MANAGEMENT?**" <br/>
+
+The young man: "**Product Management**, defined by Wikipedia, is an organisational lifecycle function within a company dealing with the planning, forecasting, and production, or marketing of a product or products at all stages of the product lifecycle." <br/>
+
+"There are a lot of definitions online, and the most common representation I've seen is this:" <br/>
+<p align="center">
+<img src="./SalaryData.JPG" width="450">
+<img src="./SalaryUS.JPG" width="300">
+</p>
+"However, I still don't have the answer to my question." <br/>
+
+Ms. Optimism: "Sure. Let's talk about your motivation."<br/>
+
+The young man: "Realistically, the growth, both professionally and financially. First, let me show you the median salary trends of Product Managers since 2017." <br/>
 
 1. Overall Median Salary vs. Product Manager Median Salary, 2017-06 ~ 2019/10
 <p align="center">
@@ -60,7 +73,7 @@ c. interview script: <br/>
 d. the findings from the interviews:
   1. Don't use abbreviations, spell out the whole word (like Product Manager instead of "PMs")
   2. In all the visualizations, make sure to include dollar sign or other symbols when necessary
-  3. 
+  3. The structure is somewhat unclear because of the usage of characters and narratives, I recommend you to create a signal (like a header or something else) to show the structure. However, I'm not sure if it would look better in your final product because you will divide the sections with colors and visualizations
   4. 
   5. 
   
@@ -68,9 +81,10 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 
 ### Revised wireframes / visualizations / storyboards based on what you heard
 
-1. <iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
+1. Visualization 1 Revised
+<iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
-2. 
+2. Visualization 2 Revised
 <iframe src="https://public.tableau.com/shared/TW8MTZ6Y9?:display_count=y&:showVizHome=no&:origin=viz_share_link" width="950" height="600"></iframe>
 
 #### [Return to Main Page](/README.md)
