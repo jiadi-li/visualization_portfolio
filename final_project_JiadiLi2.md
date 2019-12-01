@@ -25,14 +25,13 @@ The young man: "**Product Management**, defined by Wikipedia, is an organisation
 
 "There are a lot of definitions online, and the most common representation I've seen is this:" <br/>
 <p align="center">
-<img src="./SalaryData.JPG" width="450">
-<img src="./SalaryUS.JPG" width="300">
+<img src="./Circle3.JPG" width="450">
 </p>
 "However, I still don't have the answer to my question." <br/>
 
 Ms. Optimism: "Sure. Let's talk about your motivation."<br/>
 
-The young man: "Realistically, the growth, both professionally and financially. First, let me show you the median salary trends of Product Managers since 2017." <br/>
+The young man: "Realistically, the growth, both professional and financial. First, let me show you the median salary trends of Product Managers since 2017." <br/>
 
 1. Overall Median Salary vs. Product Manager Median Salary, 2017-06 ~ 2019/10
 <p align="center">
