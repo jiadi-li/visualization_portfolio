@@ -71,13 +71,6 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 1. <iframe title="U.S. National Median Base Pay: Overall vs.  Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
 2. 
-<div class='tableauPlaceholder' id='viz1575171113417' style='position: relative'>
-<object class='tableauViz'  style='display:none;'>
-<param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
-<param name='embed_code_version' value='3' /> 
-<param name='site_root' value='' /><param name='name' value='PMSalary&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;PM&#47;PMSalary&#47;Sheet1&#47;1.png' /> 
-<param name='animate_transition' value='yes' />
-<param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
-<param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div> 
+<iframe src="<https://public.tableau.com/views/PMSalary/Sheet1?:retry=yes&:display_count=y&publish=yes&:origin=viz_share_link>" width="800" height="600"></iframe>
 
 #### [Return to Main Page](/README.md)
