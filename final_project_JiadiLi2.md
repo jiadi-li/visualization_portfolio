@@ -44,11 +44,23 @@ The young man: "Realistically, the growth, both professional and financial. Firs
 <img src="./SalaryUS.JPG" width="300">
 </p>
 
+Ms. Optimism: "That's impressive!" (more narrative on the interpretation of the graph: probablytalk about internet industry and other related jobs, high pay indicates high importance in the firm and industry & professional growth, etc.) <br/>
+
+Ms.Pessimism: "Product manager is an emerging position in the internet industry which is relatively higher paid. Most of the positions right now only open in metro areas. Could you further break down the geographic distribution of the salary along with some living/well-being indices?"<br/>
+
 2. U.S. House Pricing Index vs. Product Manager Median Base Pay, October 2019 <br/>
 <p align="center">
 <img src="./Viz2-v1.JPG" width="600">
 </p>
 (This Data is collected from [Glassdoor](https://www.glassdoor.com/research/data-sets/) by downloading all the data and manipulate them to the form shown above.)
+Ms. Optimism: "As expected, the highest pay rate corresponding to the location with highest housing expenses. Even so, comparing to median base pay in those areas, the salary of a product manager is still decent."<br/>
+
+Ms. Pessimism: "However, the high salary may also imply two issues: 
+  1. The skill requirements for this job is strict and high, and it's hard to find someone truly qualified. 
+  2. Most qualified candidates have some job experiences to gain these required skills.
+  To be accurate, we should explore some specific **job requirements** for the role."<br/>
+
+
 
 ### Creation of a user research protocol and completion of at least three interviews
 
@@ -73,8 +85,6 @@ d. the findings from the interviews:
   1. Don't use abbreviations, spell out the whole word (like Product Manager instead of "PMs")
   2. In all the visualizations, make sure to include dollar sign or other symbols when necessary
   3. The structure is somewhat unclear because of the usage of characters and narratives, I recommend you to create a signal (like a header or something else) to show the structure. However, I'm not sure if it would look better in your final product because you will divide the sections with colors and visualizations
-  4. 
-  5. 
   
 e. changes the implemented to the sketches, storyboards and wireframes to address the issues identified: please see below.
 
