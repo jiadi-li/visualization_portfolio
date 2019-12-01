@@ -98,4 +98,6 @@ Finally, in the last portion of the project, information from both sections abov
   Then the project will go through testing phrase and final solution building phrase.
   Information will be finalized as the project proceeds.
 
+#### [Part II: Wireframes / Storyboards and User Research](/final_project_JiadiLi2.md)
+#### [Part III: Final Deliverable](/final_project_JiadiLi3.md)
 #### [Return to Main Page](/README.md)
