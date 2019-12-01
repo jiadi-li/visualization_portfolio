@@ -96,4 +96,6 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 2. Visualization 2 Revised
 <iframe src="https://public.tableau.com/shared/TW8MTZ6Y9?:display_count=y&:showVizHome=no&:origin=viz_share_link" width="950" height="600"></iframe>
 
+#### [Part I: Project Proposal](/final_project_JiadiLi.md)
+#### [Part III: Final Deliverable](/final_project_JiadiLi3.md)
 #### [Return to Main Page](/README.md)
