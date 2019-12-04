@@ -42,7 +42,7 @@ Japan's government debt evolved with a trend similar to that of the United State
 #### Part 3: Working with Tableau
 
 <p align="center">
-	<iframe src="https://public.tableau.com/views/OECD_15728420740210/OECDHighlight?:display_count=y&:origin=viz_share_link" width="950" height="600"></iframe>
+<iframe src="https://public.tableau.com/views/OECD_15728420740210/OECDHighlight?:display_count=y&:origin=viz_share_link" width="950" height="600"></iframe>
 </p>
 
 #### [Return to Main Page](/README.md)
