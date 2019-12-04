@@ -4,9 +4,9 @@
     An outline of the project, copies of data, an initial sketch of the idea, and the identified method to be used for presenting. 
 - Part II: [Wireframes, storyboards, moodboards and user research](final_project_JiadiLi2.md).  
     User research and incorporating user feedback. 
-- Part III: [Final deliverable](final_project_JiadiLi.md).
+- Part III: [Final deliverable](final_project_JiadiLi3.md).
     Details shown below.
-- Part IV: A final presentation. 
+- Part IV: [A final presentation](https://preview.shorthand.com/mtPjUhAjj6kEwUw0). 
 
 ### The idea
 
