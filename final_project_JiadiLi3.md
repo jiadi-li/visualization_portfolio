@@ -25,10 +25,15 @@
 
 ### Final data story
 
-- Intended audience
-A few paragraphs that talk about the intended audience for your final data story.  
-Include any personas and / or other information you've used that helped you narrow the focus.  
-Talk about specific things you did to your final project to make it work for your audience. 
+- Intended audience<br/>
+The intended audience for the final data story is those who are interested in pursuing a career in product management, including but not limited to high shcool graduates who are deciding their major, college students, youny professionals and even experienced professionals.<br/>
+To help narrow the focus, the first version of my story has 3 characters: <br/>
+    a. a young man who is a college student and is interested in pursuing a career in product management<br/>
+    b. Ms.Optimism who guides the young man to show the information he knows and provide positive feedbacks based on his deliverables<br/>
+    c.Ms.Pessimism does the opposite by providing negative feedbacks so that the young man can get more objective ideas of the market<br/>
+Later in the final data story, based on the user feedbacks, I decided to remove the characters and make them implicitly, meaning to treat the audience as a client and myself as a consultant.<br/>
+To address my audience, I excluded all the information that are more on-the-job and focused on the information that should be helpful for job seekers especially for education, experience and skill requirements. It's both difficult to find the related information and to downsize the information because there are so many ideas and a lot of them are somehow different.<br/>
+
 
 - A few paragraphs that summarize the work you've done so far.  
 Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
