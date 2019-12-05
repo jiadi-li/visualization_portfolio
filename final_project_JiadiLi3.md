@@ -52,33 +52,32 @@ To address my audience, I excluded all the information that are more on-the-job 
 3. Structure<br/>
     Similarly, because of the removal of the characters and discovery of more relavant data along the process, I decided to change the structure of the data story (from version 1 where there are 3 characters to version 2).<br/>
     Version 2 has more sections than the final version which is as the following:
-    1. Why is product management attractive?
-        a. comprehensive professional growth (potential managerial experience): use definition of PM
-        b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map
-    2. How to get a job in PM? - Education
-        a. education backgrounds of current PMs
-        b. programs to consider
-    3. How to get a job in PM? - Experience
-        a. professional backgrounds of current PMs
-        b. PM diversification
-    4. How to get a job in PM? - Skills
-        a. technical tools aren’t that important, they don’t use too much emerging techs
-        b. they spend a lot of time communicating
-    5. How to get a job in PM? - Tools
-        a. Prototyping
-        b. Internal Communications
-        c. Roadmapping
-    6. How to get a job in PM? - Resources
-        a. Conferences
-        b. Publications
-        c. podcasts
-    7. Call for actions
+    1. Why is product management attractive?<br/>
+        a. comprehensive professional growth (potential managerial experience): use definition of PM<br/>
+        b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map<br/>
+    2. How to get a job in PM? - Education<br/>
+        a. education backgrounds of current PMs<br/>
+        b. programs to consider<br/>
+    3. How to get a job in PM? - Experience<br/>
+        a. professional backgrounds of current PMs<br/>
+        b. PM diversification<br/>
+    4. How to get a job in PM? - Skills<br/>
+        a. technical tools aren’t that important, they don’t use too much emerging techs<br/>
+        b. they spend a lot of time communicating<br/>
+    5. How to get a job in PM? - Tools<br/>
+        a. Prototyping<br/>
+        b. Internal Communications<br/>
+        c. Roadmapping<br/>
+    6. How to get a job in PM? - Resources<br/>
+        a. Conferences<br/>
+        b. Publications<br/>
+        c. podcasts<br/>
+    7. Call for actions<br/>
     While all these information are included in the final version (even more), I decided to combine section 4, 5, and 6 because they are highly related and the amount of content is not large enough to be separated into 3 parts.<br/>
+    One thing I learned from this part is to get more data (then downsize them), and let the data shape my story. Don't make too many assumptions before seeing and analyzing the data.<br/>
 
 - **Link & References**<br/>
 [The published link](https://carnegiemellon.shorthandstories.com/pm/index.html)
-
--**Other information that helps round out your data story**<br/>
 
 
 #### [Part I: Project Proposal](/final_project_JiadiLi.md)
