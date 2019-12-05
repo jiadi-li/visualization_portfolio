@@ -85,10 +85,35 @@ d. the findings from the interviews:
   1. Don't use abbreviations, spell out the whole word (like Product Manager instead of "PMs")
   2. In all the visualizations, make sure to include dollar sign or other symbols when necessary
   3. The structure is somewhat unclear because of the usage of characters and narratives, I recommend you to create a signal (like a header or something else) to show the structure. However, I'm not sure if it would look better in your final product because you will divide the sections with colors and visualizations
+  4. Don't use too many colors. If your background is red and blue, maybe change the color of your plots?
+  5. Maybe limit the number of characters to 2, one for the young man and the other one for an advisor who provides all the insights.
   
 e. changes the implemented to the sketches, storyboards and wireframes to address the issues identified: please see below.
 
 ### Revised wireframes / visualizations / storyboards based on what you heard
+
+#### Revised structure
+1. Why is product management attractive?
+  a. comprehensive professional growth (potential managerial experience): use definition of PM
+  b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map
+2. How to get a job in PM? - Education
+  a. 
+  b.
+3. How to get a job in PM? - Experience
+  a.
+  b.
+4. How to get a job in PM? - Skills
+  a. technical tools aren't that important, they don't use too much emerging techs
+  b. they spend a lot of time communicating
+5. How to get a job in PM? - Tools
+  a. Prototyping
+  b. Internal Communications
+  c. Roadmapping
+6. How to get a job in PM? - Resources
+  a. Conferences
+  b. Publications
+  c. podcasts
+7. Call for actions
 
 <iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
@@ -107,7 +132,6 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 <iframe title="Cirriculum Distributions of the Five Product Management related programs" aria-label="Interactive pie chart" src="//datawrapper.dwcdn.net/5HFxr/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="791"></iframe>
 
 <iframe title="Emerging Technologies incorporated by Product Managers, 2019" aria-label="Column Chart" src="//datawrapper.dwcdn.net/fR45Z/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="444"></iframe>
-
 
 
 #### [Part I: Project Proposal](/final_project_JiadiLi.md)
