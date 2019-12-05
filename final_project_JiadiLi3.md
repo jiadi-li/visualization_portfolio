@@ -73,6 +73,7 @@ To address my audience, I excluded all the information that are more on-the-job 
         b. Publications<br/>
         c. podcasts<br/>
     7. Call for actions<br/>
+
     While all these information are included in the final version (even more), I decided to combine section 4, 5, and 6 because they are highly related and the amount of content is not large enough to be separated into 3 parts.<br/>
     One thing I learned from this part is to get more data (then downsize them), and let the data shape my story. Don't make too many assumptions before seeing and analyzing the data.<br/>
 
