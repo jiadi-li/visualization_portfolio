@@ -6,7 +6,7 @@
     User research and incorporating user feedback. 
 - Part III: [Final deliverable](final_project_JiadiLi3.md).
     Details shown below.
-- Part IV: [A final presentation](https://preview.shorthand.com/mtPjUhAjj6kEwUw0). 
+- Part IV: [A final presentation](https://carnegiemellon.shorthandstories.com/pm/index.html). 
 
 ### [The idea](final_project_JiadiLi.md)
 
@@ -25,28 +25,23 @@
 
 ### Final data story
 
-- Intended audience<br/>
+- **Intended audience**<br/>
 The intended audience for the final data story is those who are interested in pursuing a career in product management, including but not limited to high shcool graduates who are deciding their major, college students, youny professionals and even experienced professionals.<br/>
 To help narrow the focus, the first version of my story has 3 characters: <br/>
-    a. a young man who is a college student and is interested in pursuing a career in product management<br/>
-    b. Ms.Optimism who guides the young man to show the information he knows and provide positive feedbacks based on his deliverables<br/>
-    c.Ms.Pessimism does the opposite by providing negative feedbacks so that the young man can get more objective ideas of the market<br/>
+    1. a young man who is a college student and is interested in pursuing a career in product management<br/>
+    2. Ms.Optimism who guides the young man to show the information he knows and provide positive feedbacks based on his deliverables<br/>
+    3.Ms.Pessimism does the opposite by providing negative feedbacks so that the young man can get more objective ideas of the market<br/>
 Later in the final data story, based on the user feedbacks, I decided to remove the characters and make them implicitly, meaning to treat the audience as a client and myself as a consultant.<br/>
 To address my audience, I excluded all the information that are more on-the-job and focused on the information that should be helpful for job seekers especially for education, experience and skill requirements. It's both difficult to find the related information and to downsize the information because there are so many ideas and a lot of them are somehow different.<br/>
 
 
-- A few paragraphs that summarize the work you've done so far.  
+- **Summarize the work you've done so far**<br/>  
 Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
 
-- Link to final data story
-Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  
-Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
-Include all references for materials used.  
-It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  
-A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctlyLinks to an external site..  
-Make sure to add / update any citations and / or other content that you used to create your data story.  
-References should also be clearly identified on your final data story itself.  (Part III)
+- **Link & References**
+[Thepublished link](https://carnegiemellon.shorthandstories.com/pm/index.html)
+
 Include any other information that helps round out your data story. (Part III)
 
 #### [Part I: Project Proposal](/final_project_JiadiLi.md)
