@@ -90,11 +90,25 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 
 ### Revised wireframes / visualizations / storyboards based on what you heard
 
-1. Visualization 1 Revised
 <iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
-2. Visualization 2 Revised
 <iframe src="https://public.tableau.com/shared/TW8MTZ6Y9?:display_count=y&:showVizHome=no&:origin=viz_share_link" width="950" height="600"></iframe>
+
+<iframe title="Search Interest: Product Manager vs. Other Attractive Career Paths" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/aImvS/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400"></iframe>
+
+<iframe title="Education Level Distribution of Product Management Roles, 2017" aria-label="Interactive pie chart" src="//datawrapper.dwcdn.net/8QUqB/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="464"></iframe>
+
+<iframe title="Technical Aptitude: Level of Coding Proficiency of Product Managers, 2017" aria-label="Interactive pie chart" src="//datawrapper.dwcdn.net/RpF33/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="482"></iframe>
+
+<iframe title="Prior Roles of Product Managers, 2019" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/nSy8M/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="374"></iframe>
+
+<iframe title="Responsibilities of Product Managers, 2019" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/m3UHo/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="285"></iframe>
+
+<iframe title="Cirriculum Distributions of the Five Product Management related programs" aria-label="Interactive pie chart" src="//datawrapper.dwcdn.net/5HFxr/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="791"></iframe>
+
+<iframe title="Emerging Technologies incorporated by Product Managers, 2019" aria-label="Column Chart" src="//datawrapper.dwcdn.net/fR45Z/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="444"></iframe>
+
+
 
 #### [Part I: Project Proposal](/final_project_JiadiLi.md)
 #### [Part III: Final Deliverable](/final_project_JiadiLi3.md)
