@@ -93,27 +93,27 @@ e. changes the implemented to the sketches, storyboards and wireframes to addres
 ### Revised wireframes / visualizations / storyboards based on what you heard
 
 #### Revised structure
-1. Why is product management attractive?
-  a. comprehensive professional growth (potential managerial experience): use definition of PM
-  b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map
-2. How to get a job in PM? - Education
-  a. 
-  b.
-3. How to get a job in PM? - Experience
-  a.
-  b.
-4. How to get a job in PM? - Skills
-  a. technical tools aren't that important, they don't use too much emerging techs
-  b. they spend a lot of time communicating
-5. How to get a job in PM? - Tools
-  a. Prototyping
-  b. Internal Communications
-  c. Roadmapping
-6. How to get a job in PM? - Resources
-  a. Conferences
-  b. Publications
-  c. podcasts
-7. Call for actions
+1. Why is product management attractive?<br/>
+  a. comprehensive professional growth (potential managerial experience): use definition of PM<br/>
+  b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map<br/>
+2. How to get a job in PM? - Education<br/>
+  a. education backgrounds of current PMs<br/>
+  b. programs to consider<br/>
+3. How to get a job in PM? - Experience<br/>
+  a. professional backgrounds of current PMs<br/>
+  b. PM diversification<br/>
+4. How to get a job in PM? - Skills<br/>
+  a. technical tools aren't that important, they don't use too much emerging techs<br/>
+  b. they spend a lot of time communicating<br/>
+5. How to get a job in PM? - Tools<br/>
+  a. Prototyping<br/>
+  b. Internal Communications<br/>
+  c. Roadmapping<br/>
+6. How to get a job in PM? - Resources<br/>
+  a. Conferences<br/>
+  b. Publications<br/>
+  c. podcasts<br/>
+7. Call for actions<br/>
 
 <iframe title="U.S. National Median Base Pay: Overall vs. Product Manager, June 17-October 19" aria-label="Interactive line chart" src="//datawrapper.dwcdn.net/RASD4/2/" scrolling="no" frameborder="0" style="border: none;" width="629" height="484"></iframe>
 
