@@ -36,8 +36,44 @@ To address my audience, I excluded all the information that are more on-the-job 
 
 
 - **Summarize the work you've done so far**<br/>  
-Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
+1. Characters<br/>
+    As I mentioned previously, there are 3 characters in the first version of my data story. <br/>
+    Because of the characteristics and potential restrictions of the data I found online, I decided to illustrate ideas from two separate points of view using this structure.<br/>
+    However, based on the user feedback, the character setting makes it complicated which is unnecessary. <br/>
+    One thing I learned working through the process is to receive and reflect on user feedback continuously.<br/><br/>
+    
+2. Theme Color<br/>
+    The original theme color of the data story is red and blue to reflect the contrast between Ms.Optimism and Ms.Pessimism.<br/>
+    In shorthand, the story will be one section with a red background and only narrative on the left from Ms.Optimism and the other section with blue background and only narrative on the right from Ms.Pessimism. Information and ideas from the young man will be in a either purple or orange in the middle of the screen.<br/>
+    Using some imagination after the user feedback, I realized that it's impossible to not be messy with so many colors (along with some potential colors in the graphs and plots).<br/>
+    At the end, by removing the characters, I decided to use a uniform theme color across the board which is orange.<br/>
+    The reason why I chose orange is subjective: orange is actually the theme color of most of the firms that gave me an offer during this recruiting season. One of them being a associate product manager role.<br/><br/>
+    
+3. Structure<br/>
+    Similarly, because of the removal of the characters and discovery of more relavant data along the process, I decided to change the structure of the data story (from version 1 where there are 3 characters to version 2).<br/>
+    Version 2 has more sections than the final version which is as the following:
+    1. Why is product management attractive?
+        a. comprehensive professional growth (potential managerial experience): use definition of PM
+        b. financial growth: U.S. National Median Base Pay: Overall vs. Product Manager over time, and the map
+    2. How to get a job in PM? - Education
+        a. education backgrounds of current PMs
+        b. programs to consider
+    3. How to get a job in PM? - Experience
+        a. professional backgrounds of current PMs
+        b. PM diversification
+    4. How to get a job in PM? - Skills
+        a. technical tools aren’t that important, they don’t use too much emerging techs
+        b. they spend a lot of time communicating
+    5. How to get a job in PM? - Tools
+        a. Prototyping
+        b. Internal Communications
+        c. Roadmapping
+    6. How to get a job in PM? - Resources
+        a. Conferences
+        b. Publications
+        c. podcasts
+    7. Call for actions
+    While all these information are included in the final version (even more), I decided to combine section 4, 5, and 6 because they are highly related and the amount of content is not large enough to be separated into 3 parts.<br/>
 
 - **Link & References**<br/>
 [The published link](https://carnegiemellon.shorthandstories.com/pm/index.html)
