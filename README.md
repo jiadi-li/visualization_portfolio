@@ -17,10 +17,11 @@ This section will be updated with the links to my future assignments and final p
 ## [Assignment 2: OECD data visualization](/dataviz2.md)
 ## [Assignment 3 & 4: Critique by Design](/dataviz3.md)
 ## [Final Project](https://carnegiemellon.shorthandstories.com/pm/index.html)
-### [Project Proposal](/final_project_JiadiLi.md)
-### [Wireframes, Storyboards & User Research](/final_project_JiadiLi2.md)
-### [Final Deliverables & Summary](/final_project_JiadiLi3.md)
+###   [Project Proposal](/final_project_JiadiLi.md)
+###   [Wireframes, Storyboards & User Research](/final_project_JiadiLi2.md)
+###   [Final Deliverables & Summary](/final_project_JiadiLi3.md)
 
+<br/><br/>
 # Some Visualizations
 <iframe title="The Ultimate Halloween Candy Power Ranking" aria-label="Bar Chart" id="datawrapper-chart-7jnxl" src="//datawrapper.dwcdn.net/7jnxl/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="316"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
