@@ -30,7 +30,7 @@ The intended audience for the final data story is those who are interested in pu
 To help narrow the focus, the first version of my story has 3 characters: <br/>
     1. a young man who is a college student and is interested in pursuing a career in product management<br/>
     2. Ms.Optimism who guides the young man to show the information he knows and provide positive feedbacks based on his deliverables<br/>
-    3.Ms.Pessimism does the opposite by providing negative feedbacks so that the young man can get more objective ideas of the market<br/>
+    3. Ms.Pessimism does the opposite by providing negative feedbacks so that the young man can get more objective ideas of the market<br/>
 Later in the final data story, based on the user feedbacks, I decided to remove the characters and make them implicitly, meaning to treat the audience as a client and myself as a consultant.<br/>
 To address my audience, I excluded all the information that are more on-the-job and focused on the information that should be helpful for job seekers especially for education, experience and skill requirements. It's both difficult to find the related information and to downsize the information because there are so many ideas and a lot of them are somehow different.<br/>
 
@@ -42,7 +42,8 @@ Include a link to your updated Github repository that includes a link to your fi
 - **Link & References**<br/>
 [The published link](https://carnegiemellon.shorthandstories.com/pm/index.html)
 
-Include any other information that helps round out your data story. (Part III)
+-**Other information that helps round out your data story**<br/>
+
 
 #### [Part I: Project Proposal](/final_project_JiadiLi.md)
 #### [Part II: Wireframes / Storyboards and User Research](/final_project_JiadiLi2.md)
