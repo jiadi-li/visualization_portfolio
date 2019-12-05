@@ -60,7 +60,13 @@ Ms. Pessimism: "However, the high salary may also imply two issues:
   2. Most qualified candidates have some job experiences to gain these required skills.
   To be accurate, we should explore some specific **job requirements** for the role."<br/>
 
+<p align="center">
+<img src="./temp.JPG" width="600">
+</p>
 
+<p align="center">
+<img src="./Cirriculum.JPG" width="600">
+</p>
 
 ### Creation of a user research protocol and completion of at least three interviews
 
