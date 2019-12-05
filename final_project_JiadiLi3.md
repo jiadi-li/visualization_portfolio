@@ -39,8 +39,8 @@ To address my audience, I excluded all the information that are more on-the-job 
 Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
 Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
 
-- **Link & References**
-[Thepublished link](https://carnegiemellon.shorthandstories.com/pm/index.html)
+- **Link & References**<br/>
+[The published link](https://carnegiemellon.shorthandstories.com/pm/index.html)
 
 Include any other information that helps round out your data story. (Part III)
 
